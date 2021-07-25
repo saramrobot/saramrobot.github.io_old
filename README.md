@@ -11,10 +11,10 @@ https://gaemi606.tistory.com/entry/AWS-EC2%EC%97%90-%ED%86%B0%EC%BA%A3Tomcat-%EC
 5. http://18.116.15.236:8080/
 6. sudo systemctl start mariadb
 7. mysqladmin -u root password 'password'
-$ mysql -u root -p
-> use mysql Database;
-> grant all privileges on*.* to 'root'@'%'identified by 'asdf1234(password)';
-> flush privileges;
+mysql -u root -p
+use mysql Database;
+grant all privileges on*.* to 'root'@'%'identified by 'asdf1234(password)';
+flush privileges;
 
 
 https://github.com/WeareSoft/tech-interview/blob/master/contents/spring.md
