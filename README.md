@@ -1,5 +1,13 @@
 # saramrobot.github.io
 
+1. Java 설치
+sudo yum install java-1.8.0-openjdk
+2. 톰캣 설치 8.5
+https://mirror.navercorp.com/apache/tomcat/tomcat-8/v8.5.69/bin/apache-tomcat-8.5.69.tar.gz
+tar xvfz apache-tomcat-8.5.69.tar.gz
+https://gaemi606.tistory.com/entry/AWS-EC2%EC%97%90-%ED%86%B0%EC%BA%A3Tomcat-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0
+3. 
+
 https://github.com/WeareSoft/tech-interview/blob/master/contents/spring.md
 
 ![image](https://user-images.githubusercontent.com/87711497/126344974-2545bb3b-ecb0-4966-aa5c-264bef508a91.png)
