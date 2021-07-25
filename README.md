@@ -6,7 +6,7 @@ sudo yum install java-1.8.0-openjdk
 https://mirror.navercorp.com/apache/tomcat/tomcat-8/v8.5.69/bin/apache-tomcat-8.5.69.tar.gz
 tar xvfz apache-tomcat-8.5.69.tar.gz
 https://gaemi606.tistory.com/entry/AWS-EC2%EC%97%90-%ED%86%B0%EC%BA%A3Tomcat-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0
-3. 
+3. http://ec2-18-116-15-236.us-east-2.compute.amazonaws.com:8080/
 
 https://github.com/WeareSoft/tech-interview/blob/master/contents/spring.md
 
