@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-03-06T00:32:24+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">SARAMROBOT</title><subtitle>Artificial Intelligence</subtitle><author><name>SARAMROBOT</name></author></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-03-06T00:37:31+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">SARAMROBOT</title><subtitle>Artificial Intelligence</subtitle><author><name>SARAMROBOT</name></author><entry><title type="html">Start</title><link href="http://localhost:4000/start/" rel="alternate" type="text/html" title="Start" /><published>2022-03-06T00:00:00+09:00</published><updated>2022-03-06T00:00:00+09:00</updated><id>http://localhost:4000/start</id><content type="html" xml:base="http://localhost:4000/start/"><![CDATA[<h1 id="front-matter">Front Matter</h1>
+<hr />
+<p>date: 2022-03-06
+title: “Github Blog 생성”
+categories: blog
+tags: general</p>
+<h1 id="목차">목차</h1>
+<p>toc: true<br />
+toc_sticky: true 
+—
+from null to zero</p>]]></content><author><name>SARAMROBOT</name></author><summary type="html"><![CDATA[Front Matter date: 2022-03-06 title: “Github Blog 생성” categories: blog tags: general 목차 toc: true toc_sticky: true — from null to zero]]></summary></entry></feed>
